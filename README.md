@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/aditinsingh/aditinsingh/main/BANNER.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/aditinsingh/aditinsingh/main/BANNER1.png"> </div>
 <h3 align="center">A passionate Data Enthusiast | Exploring Data Analytics from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
